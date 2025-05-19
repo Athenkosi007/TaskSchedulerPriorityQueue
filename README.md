@@ -1,6 +1,6 @@
 # TaskSchedulerPriorityQueue
 
-A simple C# console app demonstrating a custom **Priority Queue** for task scheduling. Tasks with higher priority are processed first.
+Demonstrating a custom **Priority Queue** for task scheduling. Tasks with higher priority are processed first.
 
 ## Features
 
